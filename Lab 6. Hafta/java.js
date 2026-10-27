@@ -1,0 +1,1 @@
+document.write("Selamlar dünya ben tolgaaa."); document.write("ben satırın öbür ucundayım");
